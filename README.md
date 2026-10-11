@@ -1,6 +1,6 @@
 # Hi 👋 My name is Facundo
 
-### Computer Engineering student & Unity3D Developer
+### Computer Engineer | Unity3D & Full Stack Web Developer
 
 *   🌍  I'm based in Bahía Blanca
 *   ✉️  You can contact me at [facubernardini@hotmail.com](mailto:facubernardini@hotmail.com)
